@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="578a93f2-be41-4aa9-8347-1d1276f728a7" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="2KscxkddU03vZqWl3XKtd4g0TPt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "javascript.nodejs.core.library.configured.version": "19.4.0",
+    "javascript.nodejs.core.library.typings.version": "18.11.18",
+    "last_opened_file_path": "D:/Matheus/dev/ms-rabbit-mq/auth-api",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "D:\\Matheus\\dev\\ms-rabbit-mq\\auth-api\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Matheus\dev\ms-rabbit-mq\auth-api" />
+      <recent name="D:\Matheus\dev\ms-rabbit-mq\auth-api\src\plugins" />
+      <recent name="D:\Matheus\dev\ms-rabbit-mq\auth-api\src\helpers" />
+      <recent name="D:\Matheus\dev\ms-rabbit-mq\auth-api\src\repositories" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Matheus\dev\ms-rabbit-mq\auth-api\src\helpers" />
+      <recent name="D:\Matheus\dev\ms-rabbit-mq\auth-api\src\libs\error" />
+      <recent name="D:\Matheus\dev\ms-rabbit-mq\auth-api\test\repositories" />
+      <recent name="D:\Matheus\dev\ms-rabbit-mq\auth-api\src\libs\database" />
+      <recent name="D:\Matheus\dev\ms-rabbit-mq\auth-api\src\modules" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.generate">
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="containerName" value="" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="generate" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="generate" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.generate" />
+        <item itemvalue="npm.start" />
+        <item itemvalue="Docker.Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="578a93f2-be41-4aa9-8347-1d1276f728a7" name="Changes" comment="" />
+      <created>1674766979644</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674766979644</updated>
+      <workItem from="1674766980880" duration="1255000" />
+      <workItem from="1674768877291" duration="13000" />
+      <workItem from="1674816672969" duration="3531000" />
+      <workItem from="1674987653782" duration="1000" />
+      <workItem from="1675002092173" duration="10907000" />
+      <workItem from="1675044924584" duration="3963000" />
+      <workItem from="1675048926255" duration="1153000" />
+      <workItem from="1675078605212" duration="1347000" />
+      <workItem from="1675100593880" duration="5811000" />
+      <workItem from="1675168807709" duration="615000" />
+      <workItem from="1675195283059" duration="1996000" />
+      <workItem from="1675278760767" duration="423000" />
+      <workItem from="1675279201876" duration="1196000" />
+      <workItem from="1675281648302" duration="959000" />
+      <workItem from="1675282617515" duration="817000" />
+      <workItem from="1675286438293" duration="5000" />
+      <workItem from="1675343962750" duration="3325000" />
+      <workItem from="1675358592052" duration="3704000" />
+      <workItem from="1675464131161" duration="3254000" />
+      <workItem from="1675523838715" duration="2925000" />
+      <workItem from="1675682431315" duration="11661000" />
+      <workItem from="1675702490983" duration="3386000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+</project>
