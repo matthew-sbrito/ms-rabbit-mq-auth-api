@@ -1,4 +1,4 @@
-import {UserRepository} from "@repositories/UserRepository";
+import {ApplicationUserBody, UserRepository} from "@repositories/UserRepository";
 import {ResponseErrorException} from "@libs/error/response-error-exception";
 import {ApplicationUser} from "@prisma/client";
 import {Logger} from "@libs/../helpers/log/Logger";
@@ -13,6 +13,12 @@ export class UserService {
 
     constructor(userRepository: UserRepository) {
         this.userRepository = userRepository;
+    }
+
+    create(data: ApplicationUserBody) {
+        this.logger.info(`create user was called with args: [${data}]`);
+
+        return this.userRepository.create(data)
     }
 
     async findByEmail(email: string): Promise<ApplicationUser> {

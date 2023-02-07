@@ -10,10 +10,11 @@ interface Payload {
     userId: string
 }
 
+const ANONYMOUS_ROUTER_PATTERN = "/api/auth/(.*)";
 const AUTHORIZATION_PREFIX = "Bearer ";
 
 export async function ensureAuthenticated(request: Request, response: Response, next: NextFunction) {
-    if(request.url == "/api/authenticate") return next();
+    if(request.url.match(ANONYMOUS_ROUTER_PATTERN)) return next();
 
     const { authorization } = request.headers;
 

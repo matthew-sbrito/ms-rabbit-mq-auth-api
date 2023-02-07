@@ -29,12 +29,12 @@ export class AuthenticationService {
 
         await this.validatePassword(password, user.password);
 
-        const accessToken = this.generateToken(user);
-
-        return this.convertUserResponse(user, accessToken);
+        return this.generateAuthenticationResponse(user);
     }
 
-    private convertUserResponse(user: ApplicationUser, accessToken: string): AuthenticateResponse {
+    generateAuthenticationResponse(user: ApplicationUser): AuthenticateResponse {
+        const accessToken = this.generateToken(user);
+
         return {
             accessToken,
             user: {
